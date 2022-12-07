@@ -8,3 +8,5 @@ to run:
 ```python3 oneline_compiler.py <name_of_file>.py```
 
 outputs file to `<name_of_file>_oneline.py`
+
+the outputted file will only be one line.
